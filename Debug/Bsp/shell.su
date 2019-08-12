@@ -1,0 +1,3 @@
+shell.c:35:6:Shell_Init	8	static
+shell.c:48:13:uart_gets	40	static
+shell.c:89:6:Shell_Mode	16	static

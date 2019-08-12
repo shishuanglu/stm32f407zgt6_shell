@@ -1,0 +1,5 @@
+uartBsp.c:31:1:__io_putchar	16	static
+uartBsp.c:41:5:_write	32	static
+uartBsp.c:61:6:HAL_UART_RxCpltCallback	16	static
+uartBsp.c:68:6:vUartRecvIDLE_CallBack	24	static
+uartBsp.c:112:6:vUartBspInit	8	static
